@@ -1,6 +1,6 @@
 3dsmax-FumeFx-Lookdev
 ======================
-This tool is can help VFX artists to easy to make RGB light for render in 3dsmax.
+This tool is can help VFX artists to easy to make RGB light rig for render in 3dsmax.
 
 
 <p align="center"> 
