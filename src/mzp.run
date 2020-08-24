@@ -1,0 +1,10 @@
+name "FumeFXRGBLightRig v1.0.1"
+version 1
+
+description "This tool is can help VFX artists to easy to make RGB light rig for render in 3dsmax."
+copy "install.ms" to "$plugcfg_ln\FumeFXRGBLightRig\"
+copy "FumeFXRGBLightRig.ms" to "$plugcfg_ln\FumeFXRGBLightRig\"
+copy "icons\*.bmp" to "$usericons\"
+
+run "$plugcfg_ln\FumeFXRGBLightRig\install.ms"
+drop "$plugcfg_ln\FumeFXRGBLightRig\install.ms"
