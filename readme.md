@@ -1,7 +1,8 @@
-
-FumeFXLightArray v1.0.1
+3dsmax-FumeFx-Lookdev
 ======================
+This tool is can help VFX artists to easy to make RGB light for render in 3dsmax.
 
-Vimeo
+A demo in Vimeo:
 
 https://vimeo.com/115324799
+
